@@ -11,5 +11,6 @@
 ### 3
 ![Screenshot (235)](https://user-images.githubusercontent.com/20822323/98469111-efe7e680-2207-11eb-9fc9-670f437c00dd.png)
 
-## Step 4: Run all the cells and get the final output :)
+## Step 4: Click Run all and get the final output :)
+![Screenshot (236)](https://user-images.githubusercontent.com/20822323/98469679-41de3b80-220b-11eb-9e72-324f6f54690c.png)
 
